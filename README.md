@@ -1,10 +1,11 @@
+
 # Document-Toolbox
 
 Eine modulare Desktop-Anwendung zur interaktiven Analyse von `.docx`-Dateien und intelligenten PDF-Komprimierungen – mit schöner Benutzeroberfläche in mehreren Reitern.
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-Tkinter-blue)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![License](https://img.shields.io/badge/license-Apache%202.0-blue)
 
 ---
 
@@ -68,10 +69,10 @@ python3 main.py
 
 Es öffnet sich ein Fenster mit zwei Reitern:
 
-- **Word-Finder** (für `.docx`)
-![Word-Finder](pictures/Screenshot_Word-Finder.png)
-- **PDF-Komprimierung** (für strukturierte `*.pdf`)
-![PDF-Komprimierung](pictures/Screenshot_PDF-Komprimierung.png)
+- **Word-Finder** (für `.docx`)  
+  ![Word-Finder](pictures/Screenshot_Word-Finder.png)
+- **PDF-Komprimierung** (für strukturierte `*.pdf`)  
+  ![PDF-Komprimierung](pictures/Screenshot_PDF-Komprimierung.png)
 
 ---
 
@@ -103,4 +104,4 @@ docker run --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix document-to
 
 ## Lizenz
 
-MIT License – siehe [`LICENSE`](LICENSE)
+Apache License 2.0 – siehe [`LICENSE`](LICENSE)
