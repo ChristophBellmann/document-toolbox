@@ -1,0 +1,7 @@
+tk
+python-docx
+requests
+PyPDF2
+pdf2image
+pillow
+pypdf
