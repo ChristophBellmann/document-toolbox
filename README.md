@@ -1,5 +1,6 @@
-
 # Document-Toolbox
+
+**Mehr:** [Alle REDesign-Handbücher](https://renewable-energy-design.gitbook.io/renewable-energy-design-docs/) · [redesign.network](https://redesign.network/)
 
 Eine modulare Desktop-Anwendung zur interaktiven Analyse von `.docx`-Dateien und intelligenten PDF-Komprimierungen – mit schöner Benutzeroberfläche in mehreren Reitern.
 
